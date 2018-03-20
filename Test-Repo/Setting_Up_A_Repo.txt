@@ -1,4 +1,4 @@
-Setting up a repository
+﻿Setting up a repository
 git initgit clonegit config
 This tutorial provides an overview of how to set up a repository (repo) under Git version control. This resource will walk you through initializing a Git repository for a new or existing project. Included below are workflow examples of repositories both created locally and cloned from remote repositories. This guide assumes a basic familiarity with a command-line interface.
 
@@ -26,3 +26,4 @@ Pointing git init to an existing project directory will execute the same initial
 
 git init <project directory>
 Visit the git init page for a more detailed resource on git init.
+Irgendwelche Änderungen
